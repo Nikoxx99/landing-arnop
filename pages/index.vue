@@ -127,4 +127,10 @@ export default {
   background-color: rgba(255, 255, 255, 0.5)!important;
   backdrop-filter: blur(20px)!important;
 }
+audio::-webkit-media-controls-timeline,
+video::-webkit-media-controls-timeline,
+video::-webkit-media-controls-current-time-display,
+video::-webkit-media-controls-time-remaining-display {
+    display: none;
+}
 </style>
