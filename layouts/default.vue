@@ -8,8 +8,9 @@
     <v-footer
       :absolute="!fixed"
       app
+      class="text-center justify-center"
     >
-      <span>&copy; {{ new Date().getFullYear() }}</span>
+      <span>&copy; {{ new Date().getFullYear() }} ARNOProducciones S.A.S. - Todos los derechos reservados - Desarrollado con tecnologias modernas de la web</span>
     </v-footer>
   </v-app>
 </template>
