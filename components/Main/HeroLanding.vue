@@ -10,10 +10,12 @@
         style="margin-left:30%;display:block;text-align:end;justify-content:end;padding:20px;backdrop-filter:blur(20px);background-color:rgba(255,255,255,.07);border-radius:20px;"
       >
         <MiscLogoArnop />
-        <h1 class="font-weight-thin">
-          Cuando piensas en Internet y Televisón
+        <h1 class="text-h5">
+          <strong>Internet ilimitado y televisión por cable en Mariquita y Fresno</strong>
         </h1>
-        <h1><strong>Piensas en ARNOProducciones</strong></h1>
+        <h2 class="font-weight-regular font-italic">
+          Porque ya somos parte de tu hogar
+        </h2>
       </div>
     </div>
   </v-img>
