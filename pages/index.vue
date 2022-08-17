@@ -102,6 +102,13 @@
         </v-card>
       </v-col>
     </v-row>
+    <v-row class="justify-center">
+      <v-card class="frosted" width="1024">
+        <v-card-text>
+          <MainMapLocation />
+        </v-card-text>
+      </v-card>
+    </v-row>
   </div>
 </template>
 
