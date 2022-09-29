@@ -10,11 +10,12 @@
     >
       <v-card>
         <v-card-title class="text-h5 grey lighten-2">
-          Información acerca de nuestros proveedores
+          Nuestros contratos de servicio
         </v-card-title>
 
         <v-card-text>
-          <a href="https://arnoproducciones.com/pdf/ptd_arnop.pdf">Descargar PDF</a>
+          <a href="https://arnoproducciones.com/doc/A SAS - CONTRATO INTERNET.pdf">Contrato de Internet (Descargar PDF)</a> <br>
+          <a href="https://arnoproducciones.com/doc/A SAS - TERMINOS FACTURA Y-O ESTADO DE CUENTA DIGITAL.pdf">Terminos y condiciones Factura y/o estado de cuenta digital (Descargar PDF)</a>
         </v-card-text>
 
         <v-divider />

@@ -14,7 +14,7 @@
         </v-card-title>
 
         <v-card-text>
-          <a href="https://arnoproducciones.com/pdf/ptd_arnop.pdf">Descargar PDF</a>
+          <a href="https://arnoproducciones.com/doc/A SAS - POLITICA DE TRATAMIENTO DE DATOS.pdf">Descargar PDF</a>
         </v-card-text>
 
         <v-divider />
