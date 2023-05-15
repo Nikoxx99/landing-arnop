@@ -11,7 +11,7 @@
       >
         <MiscLogoArnop />
         <h1 class="text-h5">
-          <strong>Internet ilimitado y televisión por cable en Mariquita y Fresno</strong>
+          <strong>Internet ilimitado en Mariquita y Fresno</strong>
         </h1>
         <h2 class="font-weight-regular font-italic">
           Porque ya somos parte de tu hogar
@@ -25,7 +25,7 @@
       >
         <MiscLogoArnop />
         <h1 class="text-h5">
-          <strong>Internet ilimitado y televisión por cable en Mariquita y Fresno</strong>
+          <strong>Internet ilimitado en Mariquita y Fresno</strong>
         </h1>
         <h2 class="font-weight-regular font-italic">
           Porque ya somos parte de tu hogar
