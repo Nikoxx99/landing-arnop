@@ -14,7 +14,13 @@
         </v-card-title>
 
         <v-card-text>
-          <a href="https://arnoproducciones.com/pdf/ptd_arnop.pdf">Descargar PDF</a>
+          Las siguientes prácticas de gestión de tráfico están enmarcadas en la resolución 3502 de 2.011 de la CRC que establece las condiciones regulatorias relacionadas con la neutralidad de la red.
+
+          Los servicios internet Masivo y Corporativo prestados por ARNO PRODUCCIONES S.A.S. son ilimitados. Esto quiere decir, que sin importar cuánto tráfico sea descargado o subido, se mantiene la misma velocidad y condiciones del servicio.
+
+          Para los servicios se usa una navegacion simetrica con reuso de 1:1 mientras el ancho de banda lo permita. En horas pico se puede llegar a realizar hasta un reuso de 1:4. Esta ultima medida solo se aplicara luego de las 5pm y si el ancho de banda total disponible por la empresa supera el 95% de uso.
+
+          Para realizar las mediciones de velocidad por favor dirigirse al item de Medidor de Velocidad presente en el indice de esta página web.
         </v-card-text>
 
         <v-divider />
@@ -24,7 +30,7 @@
             color="primary"
             @click="dialog = false"
           >
-            Finalizar
+            Cerrar
           </v-btn>
         </v-card-actions>
       </v-card>

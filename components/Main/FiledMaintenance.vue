@@ -14,7 +14,7 @@
         </v-card-title>
 
         <v-card-text>
-          <a href="#">Descargar PDF</a>
+          <p>Sin mantenimientos programados para este mes.</p>
         </v-card-text>
 
         <v-divider />
